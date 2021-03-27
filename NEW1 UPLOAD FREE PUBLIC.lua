@@ -1,0 +1,1 @@
+gg.alert("cilukbaaaa Percuma mundurin tanggal juga", "Stay Tune aja")
