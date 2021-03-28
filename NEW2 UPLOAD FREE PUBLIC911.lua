@@ -1,0 +1,1 @@
+gg.alert("Percuma mundurin tanggal juga\nanti gw update lagi, Staytune aja di telegram\n\n\nGW lagi mabok dulu\nDijamu Store mey", "TAPI BOONG")
