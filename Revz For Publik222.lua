@@ -1,0 +1,1 @@
+gg.alert("Udah ada updatean baru di grup\n\nGk usah mundurin tanggal")
