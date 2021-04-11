@@ -1,0 +1,1 @@
+gg.alert("PERCUMA lu Mundurin tanggal juga hahah", "Riyan Ganteng")
